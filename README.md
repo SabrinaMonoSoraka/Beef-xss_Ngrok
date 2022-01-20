@@ -9,10 +9,9 @@
 - NGROK
 - gnome-terminal
 
-# commands
+# command
 
 ```
-chmod +x main.py
-python main.py
+chmod +x main.py && python main.py
 ```
 
