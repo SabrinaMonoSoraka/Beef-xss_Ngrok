@@ -9,7 +9,7 @@
 - NGROK
 - gnome-terminal
 
-# command
+# commands
 
 ```
 git clone https://github.com/SabrinaMonoSoraka/Beef-xss_Ngrok
