@@ -4,13 +4,15 @@
 <img src="https://cdn.discordapp.com/attachments/581170733565214731/933521800619499581/Captura_de_tela2.png">
 
 # Requirements
-- Beef-xss [Browser Exploitation Framework] 
+- Beef-xss
 - Apache
-- NGROK [If you want to do this without Port Forwarding]
+- NGROK
+- gnome-terminal
 
-
+# commands
 
 ```
 chmod +x main.py
+python main.py
 ```
 
