@@ -12,6 +12,10 @@
 # command
 
 ```
+git clone https://github.com/SabrinaMonoSoraka/Beef-xss_Ngrok
+```
+
+```
 chmod +x main.py && python main.py
 ```
 
