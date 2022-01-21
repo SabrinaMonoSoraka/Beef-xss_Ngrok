@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/581170733565214731/933521800619499581/Captura_de_tela2.png">
 
 # Requirements
-- Beef-xss
+- Beef-xss 0.5.4.0
 - Apache
 - NGROK
 - gnome-terminal
