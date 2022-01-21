@@ -21,7 +21,7 @@ chmod +x main.py && python main.py
 
 ## YouTube
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/8eKAeXrtTa4/0.jpg)](http://www.youtube.com/watch?v=8eKAeXrtTa4 "Video Title")
+[![Vídeo Tutorial](http://img.youtube.com/vi/8eKAeXrtTa4/0.jpg)](http://www.youtube.com/watch?v=8eKAeXrtTa4 "Vídeo Tutorial")
 
 
 
