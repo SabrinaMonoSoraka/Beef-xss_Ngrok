@@ -61,7 +61,7 @@ sleep(1.0)
 if os.system("ngrok -v > /dev/null 2>&1"):
     print color(" [ X ] ngrok not found","red")
     print color(" installing...","blue")
-    os.system("wget https://download1592.mediafire.com/5n60402v1ahg/ty40fol1qf9pkcy/ngrok > /dev/null 2>&1")
+    os.system("wget https://download1592.mediafire.com/g8cmwczceqyg/rsbouul6r8jn0lu/ngrok > /dev/null 2>&1")
     os.system("sudo chmod +x ngrok")
     os.system("sudo mv ngrok /bin")
     print color(" [ ✔ ] ngrok ","yellow")
