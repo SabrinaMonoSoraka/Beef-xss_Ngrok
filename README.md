@@ -19,3 +19,5 @@ git clone https://github.com/SabrinaMonoSoraka/Beef-xss_Ngrok
 chmod +x main.py && python main.py
 ```
 
+[!YOUTUBE_VIDEO](https://img.youtube.com/vi/8eKAeXrtTa4/0.jpg)](https://www.youtube.com/watch?v=8eKAeXrtTa4)
+
