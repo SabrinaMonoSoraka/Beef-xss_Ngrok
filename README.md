@@ -19,5 +19,3 @@ git clone https://github.com/SabrinaMonoSoraka/Beef-xss_Ngrok
 chmod +x main.py && python main.py
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8eKAeXrtTa4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
